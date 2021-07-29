@@ -32,7 +32,7 @@ class C_Proses extends CI_Controller {
 		$data = array('success' => false ,'message'=>array(),'data' => array());
 
 
-		$SQL = "SELECT * FROM vw_data ";
+		$SQL = "SELECT * FROM vw_normalisasidata ";
 
 		$rs = $this->db->query($SQL);
 
