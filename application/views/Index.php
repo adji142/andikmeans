@@ -33,7 +33,7 @@
       <div class="login_wrapper">
         <div class="animate form login_form">
           <center>
-                <img src="<?php echo base_url();?>Assets/build/images/wonogiri.png" style="width: 90px;height: 100px;" > </img>
+                <img src="<?php echo base_url();?>Assets/build/images/sukoharjo.png" style="width: 90px;height: 100px;" > </img>
               </center>
           <section class="login_content">
             <form id="loginform">
